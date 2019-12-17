@@ -1,0 +1,12 @@
+# git
+.git
+
+# node_modules
+
+# debug
+npm-debug.log
+
+# idea
+.idea
+.DS_store
+.vscode
